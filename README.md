@@ -31,3 +31,7 @@ Open `index.html` in a browser. Keep the `assets` folder beside it so that the C
 ## News and university marks
 
 News records enrollment, research internships and advisers, arXiv releases, and PROSPECT acceptance by IEEE RA-L. Internship dates follow the supplied CV. The acceptance is labeled only with its year because an exact acceptance month was not supplied. University marks were downloaded from official university websites; the Lancaster principal logo is kept intact. See `assets/logos/SOURCES.md`.
+
+## Publication metadata
+
+Every publication lists all authors, explains documented contribution and corresponding-author marks, and provides expandable official arXiv BibTeX plus a `.bib` download. Verified Code and Project Page buttons are included where available. See `PUBLICATIONS.md`. All university marks and their containers now have transparent backgrounds.
