@@ -14,10 +14,10 @@ The `index.html` file must be in the repository root, not inside another `yifei-
 ## Edit content
 
 - All page content and styling are in `index.html`.
-- The full CV and direct email address are excluded from the public repository pending explicit authorization for public disclosure.
+- The CV is downloadable from `assets/CV_Yifei_Yang.pdf`; the owner authorized public disclosure of the complete CV and its contact details.
 - The supplied portrait is included unchanged as `assets/yifei-yang.jpg`; its display framing uses CSS.
 - Publication titles and status labels follow the supplied CV; artwork comes directly from the supplied papers.
-- The five publication thumbnails are Figure 1 from the supplied PDFs. Click a thumbnail to view the complete figure. Rendered images preserve the original artwork. See `assets/figures/SOURCES.md` for source pages.
+- Publication thumbnails come from the supplied PDFs. AR Forcing uses Figure 2 (method architecture); the other four use Figure 1. Click a thumbnail to view the complete figure. See `assets/figures/SOURCES.md` for source pages.
 - A Google Scholar profile was not supplied, so that link is omitted.
 
 ## Custom domain
@@ -27,3 +27,7 @@ After GitHub Pages works, a custom domain can be configured under Settings → P
 ## Local viewing
 
 Open `index.html` in a browser. Keep the `assets` folder beside it so that the CV link works. No server is necessary.
+
+## News and university marks
+
+News records enrollment, research internships and advisers, arXiv releases, and PROSPECT acceptance by IEEE RA-L. Internship dates follow the supplied CV. The acceptance is labeled only with its year because an exact acceptance month was not supplied. University marks were downloaded from official university websites; the Lancaster principal logo is kept intact. See `assets/logos/SOURCES.md`.
