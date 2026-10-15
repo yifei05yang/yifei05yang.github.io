@@ -18,7 +18,7 @@ The `index.html` file must be in the repository root, not inside another `yifei-
 - The supplied portrait is included unchanged as `assets/yifei-yang.jpg`; its display framing uses CSS.
 - Publication titles and status labels follow the supplied CV; artwork comes directly from the supplied papers.
 - Publication thumbnails come from the supplied PDFs. AR Forcing uses Figure 2 (method architecture); the other four use Figure 1. Click a thumbnail to view the complete figure. See `assets/figures/SOURCES.md` for source pages.
-- A Google Scholar profile was not supplied, so that link is omitted.
+- Google Scholar: https://scholar.google.com/citations?user=BIMMsDwAAAAJ&hl=en
 
 ## Custom domain
 
